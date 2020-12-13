@@ -1,0 +1,10 @@
+{
+  "main": {
+    "token": "eefb9cc6-0f0b-47ec-9485-efa0ab210559",
+    "protocol": "https",
+    "hostname": "screeps.com",
+    "port": 443,
+    "path": "/",
+    "branch": "kingdom"
+  }
+}
